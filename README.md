@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Gabrielly Barbosa!
+# 👋 Olá, eu sou a Gabrielly Barbosa Silva!
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
