@@ -28,8 +28,6 @@ Desenvolvedora Web em formação no curso de Análise e Desenvolvimento de Siste
 
 ## 💻 Meus Projetos
 
-![Snake animation](https://github.com/gabrielly-dev/gabrielly-dev/blob/output/github-contribution-grid-snake.svg)
-
 ### 1. PharmaCare
 [PharmaCare:](https://github.com/gabrielly-dev/pharma-care)
 *Projeto fullstack que simula uma farmácia com categoria e produto onde foi utilizado Java, Spring Boot, SQL e React com Typescript.*
@@ -52,6 +50,3 @@ Desenvolvedora Web em formação no curso de Análise e Desenvolvimento de Siste
 *"Quando a gente fala de inclusão digital, é importante lembrar que estamos falando de oportunidades para pessoas que vieram de lugares que não têm acesso à tecnologia." — Nina da Hora*
 
 Sinta-se à vontade para entrar em contato, eu adoraria conversar! 😊
-
-## Olha a Cobra!!!
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
