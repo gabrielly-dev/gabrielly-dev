@@ -1,4 +1,4 @@
-# Oi 👋! Meu nome é Gabrielly e sou Desenvolvedora de Software!
+# Oi 👋! Meu nome é Gabrielly e sou Desenvolvedora Web!
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
