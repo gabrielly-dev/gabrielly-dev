@@ -1,45 +1,66 @@
-# 👋 Olá, eu sou a Gabrielly Barbosa Silva!
+<div align="center">
+  <img height="300" src="https://imgur.com/9BujFc1.png"  />
+</div>
+
+###
+
+# Oi 👋! Meu nome é Gabrielly e sou Desenvolvedora de Software!
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-🌟 Sou uma apaixonada por tecnologia e estou sempre em busca de novos desafios. Com conhecimento em **Node.js**, **JavaScript**, **Java**, **HTML** e **CSS**, eu amo criar soluções que facilitam a vida das pessoas! 💻 E, por falar em coisas que amo, não posso deixar de mencionar meu amor por **pudim**! 😋
+Desenvolvedora Web em formação no curso de Análise e Desenvolvimento de Sistemas pela PUCRS como bolsista do ProUni! Tenho conhecimentos em Java, SpringBoot, SQL e React. Adoro trabalhar em equipe e sempre busco ajudar as pessoas à minha volta de forma proativa! Estou à procura de uma oportunidade para agregar em equipes diversas, além de seguir me aprimorando e aproveitando cada oportunidade que me aparece. 
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabrielly-dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielly-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 
 ## 📍 Sobre Mim
-
-👩‍💼 **Gabrielly Barbosa Silva**  
-📍 Santos, São Paulo, Brasil
-📞 +55 (13) 99100-0808  
-✉️ gabrielly.geb@gmail.com  
-
-Sou uma iniciante em programação, atualmente focada em aprimorar minhas habilidades. Recentemente, passei no programa **One Next Education** da **Oracle** para Desenvolvimento Web em busca de uma oportunidade na área de TI, o que me proporcionou uma base sólida nas tecnologias que utilizo. Embora não esteja fazendo faculdade no momento, estou totalmente dedicada aos estudos com uma aprendizagem contínua e pronta para novas oportunidades!
-
-## 🛠️ Habilidades
-
-- **Linguagens de Programação**: Node.js, JavaScript, Java, HTML, CSS
-- **Comunicação**: Slack, Trengo, 55pbx
-- **Gestão de Projetos**: Documentação, Colaboração em Equipe
-- **Atendimento ao Cliente**: Comunicação Eficaz com Stakeholders
+- 🔭 Atualmente estou trabalhando em projetos **fullstack**
+- 🌱 Atualmente estou aprendendo **React, Tailwind e Python**
+- 👯 Estou procurando colaborar em projetos fullstack
+- 📫 Como entrar em contato comigo: [E-Mail](https://mail.google.com/mail/?view=cm&fs=1&to=gabriellybarbosa.dev@gmail.com) e [WhatsApp](https://api.whatsapp.com/send?phone=5513991000808&text=Ol%C3%A1!%20Tudo%20bem%3F%20Gostaria%20de%20conversar%20com%20voc%C3%AA%20sobre%20um%20assunto.)
+- 😄 Pronomes: Ela/Dela
+- ⚡ Curiosidade: Amo os animais e já quis ser antropóloga!
 
 ## 💻 Meus Projetos
 
-### 1. Lojinha da Poly
-[Lojinha da Poly](https://github.com/gabriellybarbosasilva/lojinha-da-poly)
-*Uma loja virtual que estou desenvolvendo em Java, onde os usuários podem explorar e comprar produtos com uma interface amigável.*
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
-### 2. Projeto em JavaScript
-[Projeto JavaScript](https://github.com/gabriellybarbosasilva/aluraoracle-challenge-1)
-*Um aplicativo interativo que utiliza JavaScript para melhorar a experiência do usuário com funcionalidades dinâmicas.*
+### 1. PharmaCare
+[PharmaCare:](https://github.com/gabrielly-dev/pharma-care)
+*Projeto fullstack que simula uma farmácia com categoria e produto onde foi utilizado Java, Spring Boot, SQL e React com Typescript.*
 
-## 📫 Vamos nos conectar!
+### 2. Blog Pessoal
+[BlogPessoal:](https://github.com/gabrielly-dev/blogpessoal.front.Generation)
+*Para aqueles que desejam compartilhar ideias em um site com layout acolhedor, esse é o site! Esse projeto com Java, Spring Boot, SQL e React com Typescript foi desenvolvido pensando no minimalismo.*
 
-- 💌 **Email**: gabrielly.geb@gmail.com
-- 🌐 **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/gabriellybarbosasilva)
+### 3. SISPAR
+[SISPAR:](https://github.com/gabrielly-dev/a-sispar)
+*Site voltado para o setor logístico proposto como projeto final do bootcamp Vai na Web, oferecendo a oportunidade de realizar estatísticas importantes do setor.*
+
+###
+
+
+###
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielly.dev)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielly-dev)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielly-dev)
+
+###
 
 ---
 
 *"Quando a gente fala de inclusão digital, é importante lembrar que estamos falando de oportunidades para pessoas que vieram de lugares que não têm acesso à tecnologia." — Nina da Hora*
 
 Sinta-se à vontade para entrar em contato, eu adoraria conversar! 😊
+
+## Olha a Cobra!!!
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
