@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="300" src="https://imgur.com/9BujFc1.png"  />
-</div>
-
-###
-
 # Oi 👋! Meu nome é Gabrielly e sou Desenvolvedora de Software!
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -34,7 +28,7 @@ Desenvolvedora Web em formação no curso de Análise e Desenvolvimento de Siste
 
 ## 💻 Meus Projetos
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielly-dev/gabrielly-dev/blob/output/github-contribution-grid-snake.svg)
 
 ### 1. PharmaCare
 [PharmaCare:](https://github.com/gabrielly-dev/pharma-care)
@@ -47,9 +41,6 @@ Desenvolvedora Web em formação no curso de Análise e Desenvolvimento de Siste
 ### 3. SISPAR
 [SISPAR:](https://github.com/gabrielly-dev/a-sispar)
 *Site voltado para o setor logístico proposto como projeto final do bootcamp Vai na Web, oferecendo a oportunidade de realizar estatísticas importantes do setor.*
-
-###
-
 
 ###
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrielly.dev)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielly-dev)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabrielly-dev)
